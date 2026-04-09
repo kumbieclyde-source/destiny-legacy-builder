@@ -1,5 +1,5 @@
 [build]
-buildCommand = "pnpm install && vite build"
+buildCommand = "pnpm install && pnpm exec vite build --outDir client/dist"
 
 [deploy]
-startCommand = "npx serve dist -l 3000"
+startCommand = "npx serve client/dist -l 3000"
