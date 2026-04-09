@@ -1,0 +1,56 @@
+[2026-04-08T12:57:24.152Z] Starting dev server with command: pnpm run dev
+[2026-04-08T12:57:24.608Z] 
+[2026-04-08T12:57:24.609Z] > destiny-legacy-builder@1.0.0 dev /home/ubuntu/destiny-legacy-builder
+[2026-04-08T12:57:24.610Z] > vite
+[2026-04-08T12:57:24.610Z] 
+[2026-04-08T12:57:24.877Z] Port 5173 is in use, trying another one...
+[2026-04-08T12:57:24.880Z] 
+[2026-04-08T12:57:24.880Z] VITE v7.3.2  ready in 234 ms
+[2026-04-08T12:57:24.880Z] 
+[2026-04-08T12:57:24.881Z] ➜  Local:   http://localhost:5174/
+[2026-04-08T12:57:24.881Z] ➜  Network: http://169.254.0.21:5174/
+[2026-04-08T13:03:31.678Z] Dev server process group stopped
+[2026-04-08T13:03:31.697Z] ELIFECYCLE  Command failed.
+[2026-04-08T13:03:31.706Z] Dev server exited with code -15
+[2026-04-08T13:03:34.691Z] Starting dev server with command: pnpm run dev
+[2026-04-08T13:03:35.064Z] 
+[2026-04-08T13:03:35.065Z] > destiny-legacy-builder@1.0.0 dev /home/ubuntu/destiny-legacy-builder
+[2026-04-08T13:03:35.065Z] > vite
+[2026-04-08T13:03:35.065Z] 
+[2026-04-08T13:03:35.286Z] Port 5173 is in use, trying another one...
+[2026-04-08T13:03:35.289Z] 
+[2026-04-08T13:03:35.289Z] VITE v7.3.2  ready in 187 ms
+[2026-04-08T13:03:35.290Z] 
+[2026-04-08T13:03:35.290Z] ➜  Local:   http://localhost:5174/
+[2026-04-08T13:03:35.290Z] ➜  Network: http://169.254.0.21:5174/
+[2026-04-08T13:06:18.798Z] Killed
+[2026-04-08T13:06:18.814Z] Killed
+[2026-04-08T13:06:18.815Z] Dev server exited with code 137
+[2026-04-08T13:13:36.504Z] Starting dev server with command: pnpm run dev
+[2026-04-08T13:13:36.904Z] 
+[2026-04-08T13:13:36.905Z] > destiny-legacy-builder@1.0.0 dev /home/ubuntu/destiny-legacy-builder
+[2026-04-08T13:13:36.905Z] > vite
+[2026-04-08T13:13:36.906Z] 
+[2026-04-08T13:13:37.183Z] 
+[2026-04-08T13:13:37.184Z] VITE v7.3.2  ready in 237 ms
+[2026-04-08T13:13:37.185Z] 
+[2026-04-08T13:13:37.185Z] ➜  Local:   http://localhost:5173/
+[2026-04-08T13:13:37.186Z] ➜  Network: http://169.254.0.21:5173/
+[2026-04-09T11:50:26.728Z] 7:50:26 AM [vite] vite.config.ts changed, restarting server...
+[2026-04-09T11:50:26.750Z] 7:50:26 AM [vite] server restarted.
+[2026-04-09T11:50:30.382Z] Dev server process group stopped
+[2026-04-09T11:50:30.407Z] ELIFECYCLE  Command failed.
+[2026-04-09T11:50:30.417Z] Dev server exited with code -15
+[2026-04-09T11:50:33.395Z] Starting dev server with command: pnpm run dev
+[2026-04-09T11:50:34.041Z] 
+[2026-04-09T11:50:34.041Z] > destiny-legacy-builder@1.0.0 dev /home/ubuntu/destiny-legacy-builder
+[2026-04-09T11:50:34.041Z] > vite
+[2026-04-09T11:50:34.042Z] 
+[2026-04-09T11:50:34.383Z] 
+[2026-04-09T11:50:34.383Z] VITE v7.3.2  ready in 304 ms
+[2026-04-09T11:50:34.384Z] 
+[2026-04-09T11:50:34.384Z] ➜  Local:   http://localhost:5173/
+[2026-04-09T11:50:34.385Z] ➜  Network: http://169.254.0.21:5173/
+[2026-04-09T13:22:16.607Z] Dev server process group stopped
+[2026-04-09T13:22:16.627Z] ELIFECYCLE  Command failed.
+[2026-04-09T13:22:16.634Z] Dev server exited with code -15

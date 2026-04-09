@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react';
-import { ChevronDown, Check, Timer } from 'lucide-react';
+import { Check, Timer } from 'lucide-react';
 
 export default function DestinyMillennium() {
   const [timeLeft, setTimeLeft] = useState({ minutes: 14, seconds: 59 });
-  const [spotsLeft, setSpotsLeft] = useState(12); // 38/50 spots taken
+  const [spotsLeft] = useState(12); // 38/50 spots taken
 
   useEffect(() => {
     const timer = setInterval(() => {
