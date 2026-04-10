@@ -1,5 +1,5 @@
 [build]
-buildCommand = "pnpm install && pnpm exec vite build --root client"
+buildCommand = "pnpm install && cd client && ../node_modules/.bin/vite build"
 
 [deploy]
-startCommand = "npx serve client/dist -l 3000 --single"
+startCommand = "node server/index.js"
